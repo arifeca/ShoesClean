@@ -1,0 +1,71 @@
+.daftar {
+  width: 50%;
+  margin-top: 7%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+  padding: 50px;
+}
+.daftar .button {
+  width: 40%;
+  color: #000;
+}
+
+/* LOGIN */
+.login {
+  width: 35%;
+  margin-top: 9%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+  padding: 50px;
+}
+.login .button {
+  width: 40%;
+  color: #000;
+}
+
+.navbar {
+  width: 100%;
+  height: 7%;
+}
+
+/* akun */
+.akun {
+  width: 50%;
+  margin-top: 7%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+  padding: 50px;
+}
+.akun .button {
+  width: 40%;
+  color: #000;
+}
+
+.order {
+  width: 50%;
+  margin-top: 8%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+  padding: 55px;
+}
+.bayar {
+  width: 50%;
+  margin-top: 7%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
+  padding: 50px;
+  background-color: white;
+}
+.jumbotron {
+  background-color: white;
+}
+.body-bayar {
+  background-color: black;
+}
+.detail {
+  margin-top: 110px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
